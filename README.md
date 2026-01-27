@@ -2,7 +2,7 @@ Version 3, # Project V
 
 [![Build Status][1]][2] [![codecov.io][3]][4] [![GoDoc][5]][6] [![codebeat][7]][8] [![Downloads][9]][10]
 ccc
-[1]: https://dev.azure.com/v2ray/core/_apis/build/status/v2ray.core "Build Status badge" 
+[1]: https://dev.azure.com/v2ray/core/_apis/build/status/v2ray.core  "Build Status badge" 
 [2]: https://dev.azure.com/v2ray/core/_build/latest?definitionId=1 "Azure Build Status"
 [3]: https://codecov.io/github/v2ray/v2ray-core/coverage.svg?branch=master "Coverage badge"
 [4]: https://codecov.io/github/v2ray/v2ray-core?branch=master "Codecov Status"
